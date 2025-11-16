@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "parts": [
+    { "path": "tinkers_shovels:item/tool/shovel/head",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_shovels:item/tool/shovel/head_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_shovels:item/tool/shovel/handle",      "stat_type": "tconstruct:handle" }
+}

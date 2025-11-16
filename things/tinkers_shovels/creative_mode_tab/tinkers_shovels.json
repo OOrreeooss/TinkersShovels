@@ -1,0 +1,8 @@
+{
+  "icon": "tinkers_shovels:shovel",
+  "after": ["tconstruct:world"],
+  "translation_key": "itemGroup.tinkers_shovels.tinkers_shovels",
+  "items": [
+    "tinkers_shovels:shovel"
+  ]
+}

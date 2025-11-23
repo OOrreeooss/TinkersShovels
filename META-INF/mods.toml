@@ -1,12 +1,13 @@
 modLoader="lowcodefml"
 loaderVersion="*"
+issueTrackerURL="https://github.com/OOrreeooss/TinkersShovels/issues"
 license="MIT"
 [[mods]]
     modId="tinkers_shovels"
-    version="1.0.0"
+    version="1.0.1"
     displayName="Tinkers' Shovels"
     authors="OOrreeooss"
-    description='''A Thing Pack for Tinkers' Construct that adds shovels.'''
+    description='''A thingpack for Tinkers' Construct that adds shovels.'''
 [[dependencies.tinkers_shovels]]
     modId="tconstruct"
     mandatory=true
